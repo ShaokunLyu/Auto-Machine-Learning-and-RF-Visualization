@@ -18,3 +18,23 @@ Apply SHAP (SHapley Additive exPlanations) to interpret model outputs and explai
 
 ## ALE_plot.ipynb
 Use Accumulated Local Effects (ALE) plots to assess the nonlinear effects and thresholds of the most influential predictors identified by SHAP and RF importance.
+
+
+## Google Earth Engine Data Collection and Processing
+https://code.earthengine.google.com/f6a155c4015019174ceedd834f750328
+
+https://code.earthengine.google.com/6bfd44f79b39adc5f2801ea2ce8e1507
+
+https://code.earthengine.google.com/32ba427e5c465381b3b5925034554742
+
+https://code.earthengine.google.com/4cacc4341b80e5345043513c463706e3
+
+https://code.earthengine.google.com/ac3c090a07e857f3f240c9f904106628
+
+https://code.earthengine.google.com/d67b10bd8c29c1a9a9f3613819bdfec1
+
+https://code.earthengine.google.com/55ff437700901ddfb20f223907bb2448
+
+https://code.earthengine.google.com/473336db74f424a5b7545af87b315317
+
+https://code.earthengine.google.com/9aade756494b1f15ef89971ace9832f0
