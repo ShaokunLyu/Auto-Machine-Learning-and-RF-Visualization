@@ -38,3 +38,18 @@ https://code.earthengine.google.com/55ff437700901ddfb20f223907bb2448
 https://code.earthengine.google.com/473336db74f424a5b7545af87b315317
 
 https://code.earthengine.google.com/9aade756494b1f15ef89971ace9832f0
+
+## Visualization Results Showcase
+
+### SHAP Heatmap
+
+<img width="970" height="560" alt="image" src="https://github.com/user-attachments/assets/db8bc8c3-c240-4be9-8bab-a8e83a8d9ad6" />
+
+### SHAP Waterfall
+
+<img width="837" height="544" alt="image" src="https://github.com/user-attachments/assets/d8fc63e5-6500-41ad-92ee-bb7103de48ce" />
+
+### ALE plot
+
+<img width="891" height="467" alt="image" src="https://github.com/user-attachments/assets/642a2c39-0d8d-4b38-8de4-5e571fc5e87a" />
+
